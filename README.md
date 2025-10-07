@@ -1,1 +1,1 @@
-The plots resulted from these codes were derived on google collab on CPU. The first file contains codes for reproducing plots from the XOR dataset. The second for MNIST dataset and the third for the transformer and GMM data
+The plots resulted from these codes were derived on google collab on CPU. The files contains codes for reproducing plots from the XOR dataset, MNIST dataset and the transformer with GMM data
